@@ -29,3 +29,9 @@ This report summarizes the defensive actions taken during a simulated Blue Team 
 - Implement centralized password management
 - Conduct quarterly phishing and security awareness training
 - Audit password compliance and access policies regularly
+
+📄 **Full Write-Up**
+
+For the complete security report with detailed narrative, screenshots, and technical analysis:
+
+🔗 [View the full Google Doc report) - https://docs.google.com/document/d/1XtudxXclu8DAjK41p5X7Dw-bdHdDZlQnhqg92aDv35U/edit?usp=sharing
