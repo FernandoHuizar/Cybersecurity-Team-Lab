@@ -1,5 +1,5 @@
 # Cybersecurity-Team-Lab
-📘 Overview
+📘 Overview: 
 This report summarizes the defensive actions taken during a simulated Blue Team exercise for Sierra College's Cybersecurity Challenge. Our objective was to secure a vulnerable network, detect and respond to attacks, and recommend long-term security improvements.
 
 🧪 Environment Issues Identified: 
